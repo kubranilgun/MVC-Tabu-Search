@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="070eef77-7e8c-4c3f-b4fe-33a3a0451543" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="216" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cJDyyHXaFkglaVRc67eIdvJh0t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kubranilgun\IdeaProjects\MVCTabuSearch\res" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="ImageTest" type="Application" factoryName="Application" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ImageTest" />
+      <module name="MVCTabuSearch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="MVCTabuSearch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application" editBeforeRun="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ImageTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="070eef77-7e8c-4c3f-b4fe-33a3a0451543" name="Default Changelist" comment="" />
+      <created>1590238060302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590238060302</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="495" y="92" key="#ImageTest" timestamp="1591107353145">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="495" y="92" key="#ImageTest/0.0.1536.824@0.0.1536.824" timestamp="1591107353145" />
+    <state x="495" y="92" key="#Main" timestamp="1590330551364">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="495" y="92" key="#Main/0.0.1536.824@0.0.1536.824" timestamp="1590330551364" />
+    <state x="499" y="170" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1591107555098">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="170" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1591107555098" />
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590330362712">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1590330362712" />
+    <state x="545" y="222" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591105479910">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="545" y="222" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1591105479910" />
+    <state x="574" y="105" key="#com.intellij.ide.util.MemberChooser" timestamp="1590411061537">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="105" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1590411061537" />
+    <state x="571" y="303" width="393" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1590328655476">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="571" y="303" width="393" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1590328655476" />
+    <state x="188" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1590853804263">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="188" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1590853804263" />
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591113528987">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1591113528987" />
+    <state width="474" height="466" key="DebuggerActiveHint" timestamp="1590419768269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="474" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1590419768269" />
+    <state width="1493" height="226" key="GridCell.Tab.0.bottom" timestamp="1592245215070">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="226" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592245215070" />
+    <state width="1493" height="226" key="GridCell.Tab.0.center" timestamp="1592245215070">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="226" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592245215070" />
+    <state width="1493" height="226" key="GridCell.Tab.0.left" timestamp="1592245215070">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="226" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592245215070" />
+    <state width="1493" height="226" key="GridCell.Tab.0.right" timestamp="1592245215070">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="226" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592245215070" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1591116722344">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591116722344" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1591116722344">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1591116722344" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1591116722344">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1591116722344" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1591116722344">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1591116722344" />
+    <state x="499" y="174" width="538" height="482" key="extract.method.dialog" timestamp="1590415495208">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="174" width="538" height="482" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1590415495208" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1590417081084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1590417081084" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MVCTabuSearch$Main.ic" NAME="Main Coverage Results" MODIFIED="1590419854627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/MVCTabuSearch$ImageTest.ic" NAME="ImageTest Coverage Results" MODIFIED="1591107354748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
